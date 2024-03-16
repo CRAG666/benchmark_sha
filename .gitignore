@@ -1,0 +1,7 @@
+# Ignorar los archivos y directorios generados por Poetry
+__pycache__/
+.venv/
+*.egg-info/
+*.egg/
+poetry.lock
+synthetic_file
